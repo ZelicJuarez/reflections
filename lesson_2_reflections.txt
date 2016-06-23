@@ -1,0 +1,9 @@
+<p
+	What happens when you initialize a repository? Why do you need to do it?
+	You create the space where your commits will be
+/p>
+
+<p
+	How is the staging area different from the working directory and the 		repository? What value do you think it offers?
+	Is different from he working directory because over there the files are one step closer to the repository so they can be committed, and is different from the repository because over there the files are already committed
+/p>
